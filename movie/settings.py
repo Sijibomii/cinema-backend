@@ -205,5 +205,5 @@ SIMPLE_JWT = {
     'USER_ID_CLAIM': 'id',
 }
 CORS_ALLOWED_ORIGINS = [
-    'http://tickets-booking-app.herokuapp.com/'
+    'http://tickets-booking-app.herokuapp.com'
 ]
