@@ -1,0 +1,6 @@
+__pycache__
+env
+.env
+media
+scripts/flow/*/.flowconfig
+.flowconfig
